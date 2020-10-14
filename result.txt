@@ -1,0 +1,4 @@
+***Mining PyCoin about to start***
+[0 - 0 - 0 - [] - 1566930640.2707076]
+***Mining PyCoin has been successful***
+[0 - 0 - 0 - [] - 1566930640.2707076, 1 - 88914 - a8d45cb77cddeac750a9439d629f394da442672e56edfe05827b5e41f4ba0138 - [{'sender': '0', 'recipient': 'Quincy Larson', 'quantity': 1}] - 1566930640.5363243]
